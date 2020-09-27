@@ -1,0 +1,17 @@
+{
+	"name": "phnx",
+	"version": "0.1.0",
+	"publisher": "Sebastian Wiendlocha",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "PhnxRetro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/phnx.tmtheme"
+			}
+		]
+	}
+}
