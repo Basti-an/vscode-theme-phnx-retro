@@ -4,9 +4,12 @@ This is my personal VSCode theme, based on the [Colorsublime](https://github.com
 and adapted for my personal use.
 
 ## Install
-see [VScode theme installation guide](https://code.visualstudio.com/docs/getstarted/themes).
-On MacOS you basically just have to copy the `theme-phnx` folder into your 
-`~/.vscode/extensions` folder.
+
+### MacOS / Linux
+copy the `theme-phnx` folder into your `~/.vscode/extensions` directory.
+
+### Windows
+copy the `theme-phnx` folder into your `%USERPROFILE%\.vscode\extensions` directory.
 
 ## Screenshots
 
