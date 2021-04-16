@@ -6,22 +6,15 @@ and adapted for my personal use.
 ## Install
 
 ### MacOS / Linux
+
 copy the `theme-phnx` folder into your `~/.vscode/extensions` directory. Start VScode and select the "PhnxRetro" theme in your user settings.
 
 ### Windows
+
 copy the `theme-phnx` folder into your `%USERPROFILE%\.vscode\extensions` directory. Start VScode and select the "PhnxRetro" theme in your user settings.
 
 ## Screenshots
 
-### JS
-![JS screenshot showing code with "Phnx Retro" theme applied](JS.png)
+### TS
 
-### JSON
-![JSON screenshot showing code with "Phnx Retro" theme applied](JSON.png)
-
-### React
-![React screenshot showing code with "Phnx Retro" theme applied](React.png)
-![React screenshot showing code with "Phnx Retro" theme applied](JSX.png)
-
-### Python
-![Python2 screenshot showing code with "Phnx Retro" theme applied](Python.png)
+![TS screenshot showing code with "Phnx Retro" theme applied](TS.png)
