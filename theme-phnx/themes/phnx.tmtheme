@@ -32,7 +32,18 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#50C9A7</string>
+                <string>#3edbaf</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>::</string>
+            <key>scope</key>
+            <string>keyword.operator.namespace</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c9e8e4</string>
             </dict>
         </dict>
         <dict>
@@ -200,6 +211,28 @@
                 <string />
                 <key>foreground</key>
                 <string>#9D5BFF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Type</string>
+            <key>scope</key>
+            <string>entity.name.type</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#81d8d5</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Type</string>
+            <key>scope</key>
+            <string>entity.name.type.lifetime.rust</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6367cf</string>
             </dict>
         </dict>
         <dict>
@@ -442,7 +475,7 @@
                 <string>#6C99BB</string>
             </dict>
         </dict>
-    <dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
@@ -472,7 +505,8 @@
                 <key>foreground</key>
                 <string>#D02000</string>
             </dict>
-        </dict></array>
+        </dict>
+    </array>
     <key>uuid</key>
     <string>CAB58494-D1A3-4BAD-BBC6-DAED679AD20B</string>
 </dict>
