@@ -1,6 +1,6 @@
-# 'Phnx Retro' VSCode Theme
+# 'Phoenix Retro' VSCode Theme
 
-This is my personal VSCode theme, largely based on [Colorsublime's](https://github.com/Colorsublime/Colorsublime-Themes) ["Birds of Paradise" theme](https://github.com/Colorsublime/Colorsublime-Themes/blob/master/themes/Birds_of_Paradise.tmTheme) by Michael Sheets
+This is my personal VSCode theme, based on [Colorsublime's](https://github.com/Colorsublime/Colorsublime-Themes) ["Birds of Paradise" theme](https://colorsublime.github.io/themes/Birds%20of%20Paradise/) by Michael Sheets
 and adapted for my personal use.
 
 ## Install
